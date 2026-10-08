@@ -2,7 +2,8 @@
 title: Apuntes de ciberseguridad
 ---
 ---
-==🟠Ciberseguridad==
+title: Apuntes de Informática
+---
 
 Bienvenido a mis apuntes. Empieza por aquí:
 
