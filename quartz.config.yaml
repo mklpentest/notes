@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: https://github.com/mklpentest/notes
+  baseUrl: mklpentest.github.io/notes
   ignorePatterns:
     - private
     - templates

@@ -7,7 +7,7 @@ title: Apuntes de Informática
 
 Bienvenido a mis apuntes. Empieza por aquí:
 
-- [[estructuras/Listas enlazadas]]
+- [[listas enlazadas]]
 - [[electronica/Puertas lógicas]]
 
 > [!tip] Consejo
