@@ -18,5 +18,7 @@ flowchart LR
 ```
 
 Imágenes: guárdalas en `content/assets/` y enlázalas con `![[circuito.png]]`.
+![[Test.png]]
+
 
 Volver a [[index]].
