@@ -1,3 +1,8 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+:root,
+:root[saved-theme="light"],
+:root[saved-theme="dark"] {
+  --tertiary: hsl(255, 90%, 76%);
+}
