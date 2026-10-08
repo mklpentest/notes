@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: en-US
+  locale: es-es
   baseUrl: https://github.com/mklpentest/notes
   ignorePatterns:
     - private

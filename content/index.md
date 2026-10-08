@@ -1,9 +1,8 @@
 ---
-title: Welcome to Quartz
+title: Apuntes de ciberseguridad
 ---
 ---
-title: Apuntes de Informática
----
+==🟠Ciberseguridad==
 
 Bienvenido a mis apuntes. Empieza por aquí:
 
